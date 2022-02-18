@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **sshrestha426699@gmail.com**
 
-- 📄 Know about my experiences <br>[https://docs.google.com/document/d/1zyYbOXz2Mx3Q-fRdfDovSohB7y3A4MpxWL1feZi-1Os/edit?usp=sharing](https://docs.google.com/document/d/1zyYbOXz2Mx3Q-fRdfDovSohB7y3A4MpxWL1feZi-1Os/edit?usp=sharing)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sagun-shrestha-89ab60223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagun-shrestha-89ab60223" height="30" width="40" /></a>
