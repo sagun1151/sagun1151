@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Sagun Shrestha</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 📫 How to reach me **sshrestha426699@gmail.com**
+- 📫 How to reach me 
+  **sshrestha426699@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zyYbOXz2Mx3Q-fRdfDovSohB7y3A4MpxWL1feZi-1Os/edit?usp=sharing](https://docs.google.com/document/d/1zyYbOXz2Mx3Q-fRdfDovSohB7y3A4MpxWL1feZi-1Os/edit?usp=sharing)
+- 📄 Know about my experiences 
+  [https://docs.google.com/document/d/1zyYbOXz2Mx3Q-fRdfDovSohB7y3A4MpxWL1feZi-1Os/edit?usp=sharing](https://docs.google.com/document/d/1zyYbOXz2Mx3Q-fRdfDovSohB7y3A4MpxWL1feZi-1Os/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
